@@ -1,4 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/k-Zk03eC)
 # WebApps-S26-Assignment-3
 Assignment 3 - Basic HTML
-Hosted at [link](https://github.com/44-563-Web-Apps-S26/webapps-f26-assignment3-Wando01)
+Hosted at [link](https://44-563-web-apps-s26.github.io/webapps-f26-assignment3-Wando01/)
